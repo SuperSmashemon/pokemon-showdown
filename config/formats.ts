@@ -670,7 +670,7 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[Gen 8] Super Smash&eacute;mons",
+		name: "[Gen 8] Super Smashemons",
 		desc: `A metagame made up of Pok&eacute;mon based on Smash Ultimate.`,
 		threads: [
 			`<a href="https://www.smogon.com/forums/threads/3649106/">Roulettemons</a>`,
