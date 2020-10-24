@@ -1,4 +1,3 @@
-export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 mario: {
 	num: 1.5,
 	species: "Mario",
@@ -433,4 +432,3 @@ miibrawler: {
 	baseStats: {hp: 75, atk: 50, def: 75, spa: 115, spd: 115, spe: 70},
 	abilities: {0: "No Ability"},
 },
-};
