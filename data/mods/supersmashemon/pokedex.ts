@@ -183,7 +183,7 @@ falco: {
 	abilities: {0: "Lightningrod", 1: "Magic Bounce", H: "Competitive"},
 	weightkg: 1,
 },
-mrgame&watch: {
+mrgamewatch: {
 	num: 24.5,
 	species: "Mr. Game & Watch",
 	types: ["Ghost"],
