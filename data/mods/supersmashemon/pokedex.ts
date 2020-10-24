@@ -47,7 +47,7 @@ drmario: {
 	abilities: {0: "Galvanize", 1: "Analytic"},
 	weightkg: 1,
 },
-rosalina&luma: {
+rosalinaluma: {
 	num: 7.5,
 	species: "Rosalina & Luma",
 	types: ["Psychic", "Fairy"],
