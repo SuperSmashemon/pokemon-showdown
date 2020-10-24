@@ -680,7 +680,7 @@ export const Formats: FormatList = [
 		ruleset: ['Standard NatDex', 'Dynamax Clause', 'Sleep Clause Mod', 'Species Clause', 'Moody Clause', 'Evasion Moves Clause', 'Swagger Clause', 'Baton Pass Clause', 'OHKO Clause'],
 		banlist: ['All Pokemon'],
 		unbanlist: [
-			‘Mario', 'Luigi', 'Peach', 'Bowser', 'Bowser Jr.', 'Dr. Mario', 'Rosalina', 'Yoshi', 'Donkey Kong', 'Diddy Kong', 'Wario', 'Link', 'Toon Link', 'Zelda', 'Sheik', 'Ganondorf', 'Samus', 'Zero Suit Samus', 'Kirby', 'Meta Knight', 'King Dedede', 'Fox', 'Falco', 'Mr. Game & Watch', 'ROB', 'Olimar', 'Duck Hunt', 'Captain Falcon', 'Villager', 'Little Mac', 'Wii Fit Trainer', 'Wii Fit Trainer-Zen', 'Ness', 'Lucas', 'Pit', 'Dark Pit', 'Palutena', 'Marth', 'Lucina', 'Robin', 'Ike', 'Roy', 'Corrin', 'Shulk-Blade', 'Shulk-Shield', 'Sonic', 'Mega Man', 'Pac-Man', 'Ryu', 'Cloud', 'Bayonetta', 'Mii Swordfighter', 'Mii Gunner', 'Mii Brawler’,
+			'Mario', 'Luigi', 'Peach', 'Bowser', 'Bowser Jr.', 'Dr. Mario', 'Rosalina', 'Yoshi', 'Donkey Kong', 'Diddy Kong', 'Wario', 'Link', 'Toon Link', 'Zelda', 'Sheik', 'Ganondorf', 'Samus', 'Zero Suit Samus', 'Kirby', 'Meta Knight', 'King Dedede', 'Fox', 'Falco', 'Mr. Game & Watch', 'ROB', 'Olimar', 'Duck Hunt', 'Captain Falcon', 'Villager', 'Little Mac', 'Wii Fit Trainer', 'Wii Fit Trainer-Zen', 'Ness', 'Lucas', 'Pit', 'Dark Pit', 'Palutena', 'Marth', 'Lucina', 'Robin', 'Ike', 'Roy', 'Corrin', 'Shulk-Blade', 'Shulk-Shield', 'Sonic', 'Mega Man', 'Pac-Man', 'Ryu', 'Cloud', 'Bayonetta', 'Mii Swordfighter', 'Mii Gunner', 'Mii Brawler',
 		],
 		onSwitchIn(pokemon) {
 			this.add('-start', pokemon, 'typechange', pokemon.species.types.join('/'), '[silent]');
