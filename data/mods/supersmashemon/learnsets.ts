@@ -15,11 +15,11 @@ bowser: {learnset: {
 	protect: ["7L1"],
 	tackle: ["7L1"],
 }},
-bowserjr.: {learnset: {
+bowserjr: {learnset: {
 	protect: ["7L1"],
 	tackle: ["7L1"],
 }},
-dr.mario: {learnset: {
+drmario: {learnset: {
 	protect: ["7L1"],
 	tackle: ["7L1"],
 }},
@@ -91,7 +91,7 @@ falco: {learnset: {
 	protect: ["7L1"],
 	tackle: ["7L1"],
 }},
-mr.gamewatch: {learnset: {
+mrgamewatch: {learnset: {
 	protect: ["7L1"],
 	tackle: ["7L1"],
 }},

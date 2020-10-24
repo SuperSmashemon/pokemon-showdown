@@ -30,7 +30,7 @@ bowser: {
 	abilities: {0: "Intimidate", 1: "Tough Claws", H: "Rough Skin"},
 	weightkg: 1,
 },
-bowserjr.: {
+bowserjr: {
 	num: 5.5,
 	species: "Bowser Jr.",
 	types: ["Dragon", "Steel"],
@@ -38,7 +38,7 @@ bowserjr.: {
 	abilities: {0: "Prankster", 1: "Illusion", H: "Motor Drive"},
 	weightkg: 1,
 },
-dr.mario: {
+drmario: {
 	num: 6.5,
 	species: "Dr. Mario",
 	types: ["Electric", "Fighting"],
@@ -182,7 +182,7 @@ falco: {
 	abilities: {0: "Lightningrod", 1: "Magic Bounce", H: "Competitive"},
 	weightkg: 1,
 },
-mr.game&watch: {
+mrgame&watch: {
 	num: 24.5,
 	species: "Mr. Game & Watch",
 	types: ["Ghost"],
